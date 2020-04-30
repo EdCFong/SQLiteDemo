@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cvs7TWlICq+i3PNl9IcayvP+EflP615CCk31WQjcpGMRP1gB3ub4uH/3qlUhWJ+d+fPqSoJgOSc1WSBivgaK5Q==",
+  "success": true,
+  "projectFilePath": "C:\\MyDocuments\\Projects\\WPF projects\\SQLiteDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Eduardo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

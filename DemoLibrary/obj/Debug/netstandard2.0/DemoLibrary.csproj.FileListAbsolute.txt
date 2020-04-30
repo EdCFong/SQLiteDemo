@@ -1,0 +1,9 @@
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\MyDocuments\Projects\WPF projects\SQLiteDemo\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb
